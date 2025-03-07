@@ -18,9 +18,11 @@
 
 ## Partie 3 - Analyse du stockage ##
 ### Q.2.3.1 ###   
+          Il y a du ext2, ext4, swap  
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.1.png)           
 ### Q.2.3.2 ###  
           Il y a du raid1 et du LVM  
+ ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.2.png)           
 ### Q.2.3.3 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.3.png) 
 ### Q.2.3.4 ###   
