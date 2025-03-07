@@ -24,7 +24,7 @@
           Il y a du raid1 et du LVM  
  ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.2.png)           
 ### Q.2.3.3 ###   
-![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.3.png) 
+![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.3A.png) 
 ### Q.2.3.4 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.4.png) 
 ### Q.2.3.5 ###   
