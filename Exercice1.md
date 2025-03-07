@@ -22,7 +22,7 @@
 | ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.1.2.1.png) 
 
 ### Q.1.2.2 ###   
-| ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.1.2.2.png) 
+![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.1.2.2.png) 
 
 ### Q.1.2.3 ###   
 | ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.1.2.3.png) 
