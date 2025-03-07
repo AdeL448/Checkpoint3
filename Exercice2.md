@@ -50,6 +50,6 @@
 ### Q.2.6.1 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.6.1.png) 
 
-ok : /24
-nr : 
-faux : 
+ok : /24  
+nr :  
+faux :   
