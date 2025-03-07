@@ -38,12 +38,14 @@
 ### Q.2.5.2 ###  
         Le trafic interne est autorisé, la connection SSH sur le port 22, le ping et le protocoles ICMP en IP et aussi en IPV6.
 ### Q.2.5.3 ###     
+          Les types qui sont interdits sont 
 ### Q.2.5.4 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.5.4.png) 
 
 ## Partie 6 - Analyse de logs ##
 
 ### Q.2.6.1 ###   
+![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.6.1.png) 
 
 ok : /24
 nr : 
