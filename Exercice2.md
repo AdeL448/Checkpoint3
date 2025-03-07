@@ -4,7 +4,6 @@
 ### Q.2.1.1 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.1.1.png) 
 ### Q.2.1.2 ###   
-          Selon l'ANSSI, les préconisations sont multiples :  
           > Choisir un mot de passe fort 
           > Appliquer la politique de moindre privilèges
           > Effectuer les mises à jour et sauvegarder vos données.
@@ -23,8 +22,7 @@
 ### Q.2.3.2 ###  
           Il y a du raid1 et du LVM  
 ### Q.2.3.3 ###   
-![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.2.3.png) 
-
+![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.3.png) 
 ### Q.2.3.4 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.3.4.png) 
 ### Q.2.3.5 ###   
@@ -36,7 +34,6 @@
         Bareos-fd (File-Daemon) est l'agent de sauvegarde installé sur les machines à sauvegarder.
 
 ## Partie 5 - Filtrage et analyse réseau ##
-
 ### Q.2.5.1 ###  
         Tout trafic entrant est bloqué par défaut, sauf si une règle l'autorise.  
 ### Q.2.5.2 ###  
