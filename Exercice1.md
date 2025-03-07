@@ -3,7 +3,7 @@
 ## Partie 1 - Gestion des utilisateurs ##
 
 ### Q.1.1.1 ###   
-| ![Capture d'écran de la partition](https://github.com/AdeL448/Checkpoint1.md/)  
+| ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Images/Q.1.1.1.png)  
 |-------------------------------|-------------------------------|
 
 
