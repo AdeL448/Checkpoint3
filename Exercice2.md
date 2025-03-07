@@ -4,8 +4,11 @@
 ### Q.2.1.1 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.1.1.png) 
 ### Q.2.1.2 ###   
-![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.1.2.png) 
-
+          Selon l'ANSSI, les préconisations sont multiples :  
+          > Choisir un mot de passe fort 
+          > Appliquer la politique de moindre privilèges
+          > Effectuer les mises à jour et sauvegarder vos données.
+          
 ## Partie 2 - Configuration de SSH ##
 ### Q.2.2.1 ###   
 ![](https://github.com/AdeL448/Checkpoint3/blob/main/Ressources/Q.2.2.1.png) 
